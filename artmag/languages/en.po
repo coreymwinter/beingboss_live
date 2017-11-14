@@ -1,0 +1,1776 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: 2035Themes Framework 1.0\n"
+"POT-Creation-Date: 2016-01-06 00:07+0200\n"
+"PO-Revision-Date: 2016-01-06 00:08+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPathExcluded-0: ../admin\n"
+
+#: ../author.php:17 ../author.php:47 ../category.php:17 ../category.php:47
+#: ../footer.php:16 ../footer.php:34 ../footer.php:50 ../footer.php:66
+#: ../index.php:16 ../index.php:46 ../page.php:29 ../page.php:56
+#: ../search.php:17 ../search.php:47 ../single.php:151 ../single.php:255
+#: ../tag.php:17 ../tag.php:47
+#, php-format
+msgid "Please Add Widget from <a href=\"%s\">here</a>"
+msgstr ""
+
+#: ../author.php:26
+msgid "Author:"
+msgstr ""
+
+#: ../category.php:26 ../tag.php:26
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: ../comments.php:14
+msgid "NO COMMENT"
+msgstr ""
+
+#: ../comments.php:14
+msgid "1 COMMENT"
+msgstr ""
+
+#: ../comments.php:14
+msgid "% COMMENTS"
+msgstr ""
+
+#: ../comments.php:14
+msgid "<h6>COMMENTS ARE OFF THIS POST</h6>"
+msgstr ""
+
+#: ../comments.php:28
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:29
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:38
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:48
+msgid "Name"
+msgstr ""
+
+#: ../comments.php:49
+msgid "E-Mail"
+msgstr ""
+
+#: ../comments.php:50
+msgid "Web Site"
+msgstr ""
+
+#: ../comments.php:54
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: ../comments.php:56
+#, php-format
+msgid "Leave a reply to %s"
+msgstr ""
+
+#: ../comments.php:57
+msgid "Click here to cancel the reply"
+msgstr ""
+
+#: ../comments.php:58
+msgid "Post comment"
+msgstr ""
+
+#: ../comments.php:59
+msgid "Comment..."
+msgstr ""
+
+#: ../comments.php:60
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: ../comments.php:62
+msgid "Submit Comment →"
+msgstr ""
+
+#: ../footer.php:115 ../header.php:341
+#, php-format
+msgid "Please Add Menu from <a href=\"%s\">here</a>"
+msgstr ""
+
+#: ../functions.php:114
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:124
+msgid "Footer 1 Widget"
+msgstr ""
+
+#: ../functions.php:134
+msgid "Footer 2 Widget"
+msgstr ""
+
+#: ../functions.php:144
+msgid "Footer 3 Widget"
+msgstr ""
+
+#: ../functions.php:353
+msgid "Search for:"
+msgstr ""
+
+#: ../functions.php:354
+msgid "Search..."
+msgstr ""
+
+#: ../functions.php:369
+msgid "Main Menu"
+msgstr ""
+
+#: ../functions.php:370
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:371
+msgid "Mobile Menu"
+msgstr ""
+
+#: ../functions.php:391
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: ../functions.php:401
+msgid "(Edit)"
+msgstr ""
+
+#: ../functions.php:403
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../functions.php:422
+msgid "Read More"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:325
+#: ../inc/custom-sidebars/customsidebars.php:391
+#: ../inc/custom-sidebars/customsidebars.php:896
+msgid "You do not have permission to delete sidebars"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:351
+#, php-format
+msgid "The sidebar \"%s\" has been deleted."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:353
+#, php-format
+msgid "There was not any sidebar called \"%s\" and it could not been deleted."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:428
+msgid "Custom sidebars"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:516
+msgid "The custom sidebars settings has been updated successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:653
+msgid "The default sidebars have been updated successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:704
+msgid "You have to fill all the fields to create a new sidebar."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:728
+#: ../inc/custom-sidebars/customsidebars.php:751
+#: ../inc/custom-sidebars/customsidebars.php:1022
+msgid "The sidebar has been created successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:733
+msgid ""
+"There is already a sidebar registered with that name, please choose a "
+"different one."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:773
+#: ../inc/custom-sidebars/customsidebars.php:776
+#: ../inc/custom-sidebars/customsidebars.php:970
+msgid "The operation is not secure and it cannot be completed."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:799
+#, php-format
+msgid "The sidebar \"%s\" has been updated successfully."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:927
+msgid "The Custom Sidebars data has been removed successfully,"
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:1002
+msgid "There has been an error storing the sidebars. Please, try again."
+msgstr ""
+
+#: ../inc/custom-sidebars/customsidebars.php:1064
+msgid "Unknown sidebar."
+msgstr ""
+
+#: ../inc/custom-sidebars/views/defaults/archive_author.php:16
+#: ../inc/custom-sidebars/views/defaults/archive_blog.php:15
+#: ../inc/custom-sidebars/views/defaults/archive_category.php:21
+#: ../inc/custom-sidebars/views/defaults/archive_date.php:15
+#: ../inc/custom-sidebars/views/defaults/archive_posttype.php:23
+#: ../inc/custom-sidebars/views/defaults/archive_search.php:15
+#: ../inc/custom-sidebars/views/defaults/archive_tag.php:15
+#: ../inc/custom-sidebars/views/defaults/single_category.php:21
+#: ../inc/custom-sidebars/views/defaults/single_posttype.php:21
+#, php-format
+msgid "<- Set %s here."
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:14
+msgid "[ CUSTOM ] Instagram"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:16
+msgid "[CUSTOM] Instagram Photos "
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:104
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:262
+msgid "No saved images for "
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:303
+msgid "No Images found for this user. This account may not be public!"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:578
+msgid "No images found"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:758
+msgid "Instagram Username"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:766
+msgid "Instagram Image"
+msgstr ""
+
+#: ../inc/custom-widgets/instagram.php:776
+msgid "Posted on Instagram"
+msgstr ""
+
+#: ../inc/custom-widgets/most-popular.php:45
+msgid "Views"
+msgstr ""
+
+#: ../inc/custom-widgets/recent-posts.php:6
+msgid "The most recent posts"
+msgstr ""
+
+#: ../inc/custom-widgets/recent-posts.php:7
+#: ../inc/custom-widgets/recent-posts.php:26
+msgid "[ CUSTOM ] Recent Posts  "
+msgstr ""
+
+#: ../inc/custom-widgets/social-media.php:12
+msgid "Social Links"
+msgstr ""
+
+#: ../inc/custom-widgets/social-media.php:95
+msgid "Socials Links"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:175
+#: ../inc/megamenu/classes/menu-item-manager.class.php:190
+#: ../inc/megamenu/classes/menu-item-manager.class.php:273
+#: ../inc/megamenu/classes/nav-menus.class.php:161
+#: ../inc/megamenu/classes/settings.class.php:554
+msgid "Mega Menu"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:176
+msgid "Mega Menus can only be created on top level menu items."
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:186
+msgid "Sub menu display mode"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:189
+msgid "Flyout Menu"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:194
+msgid "column"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:195
+#: ../inc/megamenu/classes/menu-item-manager.class.php:196
+#: ../inc/megamenu/classes/menu-item-manager.class.php:197
+#: ../inc/megamenu/classes/menu-item-manager.class.php:198
+#: ../inc/megamenu/classes/menu-item-manager.class.php:199
+#: ../inc/megamenu/classes/menu-item-manager.class.php:200
+#: ../inc/megamenu/classes/menu-item-manager.class.php:201
+msgid "columns"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:205
+msgid "Select a Widget to add to the panel"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:223
+msgid "Sub menu items"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:243
+msgid "Widgets"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:267
+msgid ""
+"No widgets found. Add a widget to this area using the Widget Selector (top "
+"right)"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:294
+msgid "Menu Item Settings"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:298
+msgid "Disable Link"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:309
+#: ../inc/megamenu/classes/settings.class.php:1061
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:328
+msgid "Dashicons"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:333
+msgid "Font Awesome"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:335
+#: ../inc/megamenu/classes/menu-item-manager.class.php:340
+#: ../inc/megamenu/classes/menu-item-manager.class.php:345
+msgid "Max Mega Menu Pro"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:335
+msgid "Get access to over 400 Font Awesome Icons with {link}"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:338
+msgid "Genericons"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:340
+msgid "Choose from over 100 genericons with {link}"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:343
+msgid "Custom Icon"
+msgstr ""
+
+#: ../inc/megamenu/classes/menu-item-manager.class.php:345
+msgid "Select icons from your media library with {link}"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:110
+msgid "Mega Menu Settings"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:160
+msgid "Launched for Menu ID"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:162
+msgid ""
+"Please enable Max Mega Menu using the settings on the left of this page."
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:163
+msgid "Saving"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:165
+msgid "Oops. Something went wrong. Please reload the page."
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:236
+msgid "here"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:238
+msgid "This theme does not register any menu locations."
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:239
+msgid ""
+"You will need to create a new menu location and use the Max Mega Menu widget "
+"or shortcode to display the menu on your site."
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:240
+msgid "Click {link} for instructions."
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:244
+msgid ""
+"Please assign this menu to a theme location to enable the Mega Menu settings."
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:284
+#: ../inc/megamenu/classes/widget-manager.class.php:463
+msgid "Save"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:323
+msgid "None"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:327
+msgid "Fade"
+msgstr ""
+
+#: ../inc/megamenu/classes/nav-menus.class.php:331
+msgid "Slide"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:291
+msgid "(Imported)"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:331
+msgid "Copy"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:554
+msgid "Max Mega Menu"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:669
+msgid ""
+"Your theme does not natively support menus, but you can add a new menu "
+"location using Max Mega Menu and display the menu using the Max Mega Menu "
+"widget or shortcode."
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:670
+msgid "Your theme supports one menu."
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:671
+msgid "Your theme supports {number} menus."
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:687
+msgid "Add another menu location."
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:713
+msgid "Menu"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:718
+msgid "Assign a menu"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:791
+msgid "Delete location"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:930
+msgid "Export Theme"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:972
+msgid "Homepage"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:977
+msgid "Documentation"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:987
+msgid "Upgrade to Pro - $19"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:995
+msgid "Core version"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:999
+msgid "Pro extension"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1062
+msgid "Menu Themes"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1063
+msgid "Tools"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1129
+msgid "Failed to delete theme. The theme is in use by a menu."
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1133
+msgid "CSS cache cleared"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1137
+msgid "All megamenu2035 data removed"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1141
+msgid "Theme Deleted"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1145
+msgid "Theme Duplicated"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1149
+msgid "Changes Saved"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1153
+msgid "Theme Reverted"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1157
+msgid "New Theme Created"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1161
+msgid "New Menu Location Created"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1165
+msgid "Menu Location Deleted"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1169
+msgid "Theme Imported"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1173
+msgid "Theme Import Failed"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:1177
+msgid "Theme Exported"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2693
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2750
+#: ../inc/megamenu/classes/settings.class.php:2829
+msgid "Theme Default"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2751
+msgid "Light (300)"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2752
+msgid "Normal (400)"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2753
+msgid "Bold (700)"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2791
+msgid "Normal"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2792
+msgid "Capitalize"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2793
+msgid "Uppercase"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2794
+msgid "Lowercase"
+msgstr ""
+
+#: ../inc/megamenu/classes/settings.class.php:2933
+msgid "Are you sure?"
+msgstr ""
+
+#: ../inc/megamenu/classes/style-manager.class.php:77
+msgid "Default"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:76
+msgid "Mega Menu Widgets"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:77
+msgid "Do not manually edit this area."
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:116
+#, php-format
+msgid "Saved %s"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:118
+#, php-format
+msgid "Failed to save %s"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:139
+#, php-format
+msgid "Updated %s (new columns: %d)"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:141
+#, php-format
+msgid "Failed to update %s"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:165
+#, php-format
+msgid "Failed to add %s to %d"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:185
+#, php-format
+msgid "Deleted %s"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:187
+#, php-format
+msgid "Failed to delete %s"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:209
+#, php-format
+msgid "Moved %s to %d (%s)"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget-manager.class.php:211
+#, php-format
+msgid "Failed to move %s to %d"
+msgstr ""
+
+#: ../inc/megamenu/classes/widget.class.php:21
+msgid "Outputs a menu for a selected theme location."
+msgstr ""
+
+#: ../inc/meta-box/demo/all-custom-post-types.php:20
+msgid "Personal Information"
+msgstr ""
+
+#: ../inc/meta-box/demo/all-custom-post-types.php:25
+msgid "Full name"
+msgstr ""
+
+#: ../inc/meta-box/demo/better-include.php:16
+#: ../inc/meta-box/demo/include-by-ID-or-page-template.php:8
+msgid "Meta Box Title"
+msgstr ""
+
+#: ../inc/meta-box/demo/better-include.php:19
+#: ../inc/meta-box/demo/include-by-ID-or-page-template.php:14
+msgid "Your images"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:11
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:15
+msgid "Date"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:21
+#: ../inc/meta-box/demo/demo.php:188
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:23
+msgid "Select Date"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:24
+#: ../inc/meta-box/demo/demo.php:189
+msgid "yy-mm-dd"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:30
+msgid "Datetime"
+msgstr ""
+
+#: ../inc/meta-box/demo/date-time-js-options.php:41
+msgid "Time"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:38
+msgid "Standard Fields"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:57
+msgid "Text"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:61
+msgid "Text description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:64
+msgid "Default text value"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:70
+msgid "Checkbox"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:78
+msgid "Radio"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:84 ../inc/meta-box/demo/demo.php:95
+#: ../inc/meta-box/demo/demo.php:237 ../inc/meta-box/demo/demo.php:282
+msgid "Label1"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:85 ../inc/meta-box/demo/demo.php:96
+#: ../inc/meta-box/demo/demo.php:238 ../inc/meta-box/demo/demo.php:283
+msgid "Label2"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:90 ../inc/meta-box/demo/demo.php:277
+#: ../inc/meta-box/inc/fields/file-input.php:40
+msgid "Select"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:101 ../inc/meta-box/demo/demo.php:288
+msgid "Select an Item"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:108
+msgid "Hidden value"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:112
+msgid "Password"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:118
+msgid "Textarea"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:119
+msgid "Textarea description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:136
+msgid "Password is required"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:137
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:145
+msgid "Advanced Fields"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:151
+msgid "Heading"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:156 ../inc/meta-box/demo/slider.php:9
+#: ../inc/metabox.php:81 ../wpbakery/extend-vc.php:915
+msgid "Slider"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:161 ../inc/meta-box/demo/slider.php:14
+msgid "$"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:162 ../inc/meta-box/demo/slider.php:15
+msgid " USD"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:173
+msgid "Number"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:182
+msgid "Date picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:197
+msgid "Datetime picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:211
+msgid "Time picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:226
+msgid "Color picker"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:232
+msgid "Checkbox list"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:243
+msgid "Email"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:245
+msgid "Email description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:251
+msgid "Range"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:253
+msgid "Range description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:262
+msgid "URL"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:264
+msgid "URL description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:270
+msgid "oEmbed"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:272
+msgid "oEmbed description"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:292
+msgid "Taxonomy"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:306
+msgid "Posts (Pages)"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:322
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:327
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:343 ../inc/meta-box/demo/force-delete.php:15
+msgid "File Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:349
+msgid "File Advanced Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:357 ../inc/meta-box/demo/force-delete.php:22
+msgid "Image Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:363 ../inc/meta-box/demo/force-delete.php:28
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:369 ../inc/meta-box/demo/force-delete.php:35
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/demo.php:376
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: ../inc/meta-box/demo/force-delete.php:11
+msgid "Test Meta Box"
+msgstr ""
+
+#: ../inc/meta-box/demo/image-select.php:6
+msgid "Image Select Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/image-select.php:10
+msgid "Layout"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:9
+msgid "Google Map"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:13
+msgid "Address"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:15
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: ../inc/meta-box/demo/map.php:19
+msgid "Location"
+msgstr ""
+
+#: ../inc/meta-box/demo/oembed.php:6
+msgid "oEmbed Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/oembed.php:10
+msgid "oEmbed(s)"
+msgstr ""
+
+#: ../inc/meta-box/demo/slider.php:6
+msgid "Slider Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/url.php:6
+msgid "URL Demo"
+msgstr ""
+
+#: ../inc/meta-box/demo/url.php:10
+msgid "URL(s)"
+msgstr ""
+
+#: ../inc/meta-box/inc/field.php:185
+msgid "+"
+msgstr ""
+
+#: ../inc/meta-box/inc/field.php:202
+msgid "&#8211;"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/file.php:70
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/image-advanced.php:22
+msgid "Select Images"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/map.php:48
+msgid "Find Address"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/oembed.php:54
+msgid "Embed HTML not available."
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/oembed.php:76
+msgid "Preview"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/post.php:52
+msgid "Post"
+msgstr ""
+
+#: ../inc/meta-box/inc/fields/post.php:66
+#: ../inc/meta-box/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: ../inc/meta-box/inc/meta-box.php:241
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: ../inc/metabox.php:50
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/metabox.php:56
+msgid ""
+"Select Sidebar(Default sidebar selected. You can change it from theme "
+"options.)"
+msgstr ""
+
+#: ../inc/metabox.php:64
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../inc/metabox.php:90
+msgid "<p>Show Title</p>"
+msgstr ""
+
+#: ../inc/metabox.php:91
+msgid "Show Title?"
+msgstr ""
+
+#: ../inc/metabox.php:115
+msgid "Featured Post"
+msgstr ""
+
+#: ../inc/metabox.php:126
+msgid "<p>Add this post in Featured posts!</p>"
+msgstr ""
+
+#: ../inc/metabox.php:130
+msgid "Yes, Please!"
+msgstr ""
+
+#: ../inc/metabox.php:131
+msgid "No"
+msgstr ""
+
+#: ../inc/metabox.php:144
+msgid "Featured Image Style"
+msgstr ""
+
+#: ../inc/metabox.php:150
+msgid ""
+"Select Featured Image Style(Default style selected. You can change it from "
+"theme options.)"
+msgstr ""
+
+#: ../inc/metabox.php:155
+msgid "Full Image"
+msgstr ""
+
+#: ../inc/metabox.php:156
+msgid "Half Image"
+msgstr ""
+
+#: ../inc/metabox.php:161
+msgid "Select Featured Image Type"
+msgstr ""
+
+#: ../inc/metabox.php:172
+msgid "Blog Post Image Slides"
+msgstr ""
+
+#: ../inc/metabox.php:178
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../inc/metabox.php:179
+msgid "Max Photo Limit is <b>25</b>"
+msgstr ""
+
+#: ../inc/metabox.php:195
+msgid "Audio Settings"
+msgstr ""
+
+#: ../inc/metabox.php:202
+msgid "Audio Code"
+msgstr ""
+
+#: ../inc/metabox.php:204
+msgid "Enter your Audio URL(Oembed) or Embed Code."
+msgstr ""
+
+#: ../inc/metabox.php:220
+msgid "Link Settings"
+msgstr ""
+
+#: ../inc/metabox.php:227
+msgid "Link Post Type"
+msgstr ""
+
+#: ../inc/metabox.php:229
+msgid "Please Write Url (Example : http://google.com)"
+msgstr ""
+
+#: ../inc/metabox.php:245
+msgid "Quote Settings"
+msgstr ""
+
+#: ../inc/metabox.php:252
+msgid "Quote Text"
+msgstr ""
+
+#: ../inc/metabox.php:254
+msgid "Enter your Quote Text"
+msgstr ""
+
+#: ../inc/metabox.php:270
+msgid "Blog Video Settings"
+msgstr ""
+
+#: ../inc/metabox.php:276
+msgid "Embed Code"
+msgstr ""
+
+#: ../inc/metabox.php:278
+msgid "Insert paste embed code"
+msgstr ""
+
+#: ../inc/shortcodes.php:309 ../inc/shortcodes.php:653
+#: ../inc/shortcodes.php:1188 ../inc/shortcodes.php:1503
+#: ../inc/shortcodes.php:1873
+msgid "STICKY"
+msgstr ""
+
+#: ../inc/shortcodes.php:315 ../inc/shortcodes.php:661
+#: ../inc/shortcodes.php:932 ../inc/shortcodes.php:1194
+#: ../inc/shortcodes.php:1509 ../inc/shortcodes.php:1878
+msgid "by"
+msgstr ""
+
+#: ../inc/shortcodes.php:325 ../inc/shortcodes.php:668
+#: ../inc/shortcodes.php:1203 ../inc/shortcodes.php:1518
+#: ../inc/shortcodes.php:1885
+msgid "SHARE"
+msgstr ""
+
+#: ../inc/shortcodes.php:380 ../inc/shortcodes.php:730
+#: ../inc/shortcodes.php:1239 ../inc/shortcodes.php:1570
+#: ../inc/shortcodes.php:1928
+msgid "Not Post Found!"
+msgstr ""
+
+#: ../inc/shortcodes.php:532 ../inc/shortcodes.php:1087
+#: ../inc/shortcodes.php:1403
+msgid "LATEST POST"
+msgstr ""
+
+#: ../inc/shortcodes.php:719 ../inc/shortcodes.php:937
+#: ../inc/shortcodes.php:1561 ../inc/shortcodes.php:1918
+msgid "Read More "
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:322
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:323
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:324
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:325
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:386
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:387
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:388
+#: ../inc/tgm/class-tgm-plugin-activation.php:3047
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:389
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:391
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:393
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:394
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2180
+msgid "Required"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2183
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2199
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2202
+msgid "External Source"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2205
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2222
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2226
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2228
+msgid "Active"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2234
+msgid "Required Update not Available"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2237
+msgid "Requires Update"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2240
+msgid "Update recommended"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2392
+msgid "Installed version:"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2400
+msgid "Minimum required version:"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2412
+msgid "Available version:"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2449
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2450
+msgid "Source"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2451
+msgid "Type"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2455
+msgid "Version"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2456
+msgid "Status"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2616
+msgid "Install"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2622
+msgid "Update"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2625
+msgid "Activate"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2656
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2658
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2699
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:2701
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3046
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3382
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3384
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3385
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3389
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3390
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3391
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3392
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3395
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3397
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/tgm/class-tgm-plugin-activation.php:3398
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../search.php:26
+#, php-format
+msgid "SEARCH RESULT : %s"
+msgstr ""
+
+#: ../single.php:221
+msgid "TAGS"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:36
+msgid "Newsletter [Mailchimp]"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:38 ../wpbakery/extend-vc.php:91
+#: ../wpbakery/extend-vc.php:386 ../wpbakery/extend-vc.php:671
+#: ../wpbakery/extend-vc.php:917 ../wpbakery/extend-vc.php:1010
+#: ../wpbakery/extend-vc.php:1321
+msgid "2035 Shortcode"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:39 ../wpbakery/extend-vc.php:92
+#: ../wpbakery/extend-vc.php:387 ../wpbakery/extend-vc.php:672
+#: ../wpbakery/extend-vc.php:918 ../wpbakery/extend-vc.php:1011
+#: ../wpbakery/extend-vc.php:1322
+msgid "by 2035Themes"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:45
+msgid "Subtitle"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:47
+msgid "SUBSCRIBE OUR NEWSLETTER"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:53
+msgid "Input Placeholder"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:55
+msgid "ENTER YOUR MAIL ADDRESS HERE"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:61
+msgid "Submit Text"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:63
+msgid "Submit"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:69
+msgid "Mailchimp Source Url"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:71
+msgid ""
+"//2035themes.us10.list-manage.com/subscribe/post?"
+"u=4745a61fa64bbaaa93263f2b8&amp;id=951c4ebba6"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:89
+msgid "Image Background Post"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:98
+msgid "Column?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:107 ../wpbakery/extend-vc.php:365
+msgid "General"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:112 ../wpbakery/extend-vc.php:412
+#: ../wpbakery/extend-vc.php:698 ../wpbakery/extend-vc.php:1053
+#: ../wpbakery/extend-vc.php:1370
+msgid "News Title?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:119 ../wpbakery/extend-vc.php:127
+#: ../wpbakery/extend-vc.php:142 ../wpbakery/extend-vc.php:155
+#: ../wpbakery/extend-vc.php:169 ../wpbakery/extend-vc.php:179
+#: ../wpbakery/extend-vc.php:188 ../wpbakery/extend-vc.php:419
+#: ../wpbakery/extend-vc.php:428 ../wpbakery/extend-vc.php:443
+#: ../wpbakery/extend-vc.php:456 ../wpbakery/extend-vc.php:470
+#: ../wpbakery/extend-vc.php:480 ../wpbakery/extend-vc.php:489
+#: ../wpbakery/extend-vc.php:705 ../wpbakery/extend-vc.php:713
+#: ../wpbakery/extend-vc.php:728 ../wpbakery/extend-vc.php:741
+#: ../wpbakery/extend-vc.php:755 ../wpbakery/extend-vc.php:765
+#: ../wpbakery/extend-vc.php:774 ../wpbakery/extend-vc.php:1060
+#: ../wpbakery/extend-vc.php:1068 ../wpbakery/extend-vc.php:1083
+#: ../wpbakery/extend-vc.php:1096 ../wpbakery/extend-vc.php:1110
+#: ../wpbakery/extend-vc.php:1120 ../wpbakery/extend-vc.php:1129
+#: ../wpbakery/extend-vc.php:1377 ../wpbakery/extend-vc.php:1385
+#: ../wpbakery/extend-vc.php:1400 ../wpbakery/extend-vc.php:1415
+#: ../wpbakery/extend-vc.php:1425 ../wpbakery/extend-vc.php:1434
+msgid "Title"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:124 ../wpbakery/extend-vc.php:1382
+msgid "Latest Post Title"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:131 ../wpbakery/extend-vc.php:432
+#: ../wpbakery/extend-vc.php:717 ../wpbakery/extend-vc.php:929
+#: ../wpbakery/extend-vc.php:1072 ../wpbakery/extend-vc.php:1389
+msgid "Title Seperator Style"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:147 ../wpbakery/extend-vc.php:448
+#: ../wpbakery/extend-vc.php:733 ../wpbakery/extend-vc.php:1088
+#: ../wpbakery/extend-vc.php:1407
+msgid "All News Link?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:161 ../wpbakery/extend-vc.php:462
+#: ../wpbakery/extend-vc.php:747 ../wpbakery/extend-vc.php:1102
+msgid "Link Position"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:176 ../wpbakery/extend-vc.php:477
+#: ../wpbakery/extend-vc.php:762 ../wpbakery/extend-vc.php:1117
+#: ../wpbakery/extend-vc.php:1422
+msgid "All News Link URL"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:185 ../wpbakery/extend-vc.php:486
+#: ../wpbakery/extend-vc.php:771 ../wpbakery/extend-vc.php:1126
+#: ../wpbakery/extend-vc.php:1431
+msgid "All News Link Text"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:193 ../wpbakery/extend-vc.php:494
+#: ../wpbakery/extend-vc.php:779 ../wpbakery/extend-vc.php:964
+#: ../wpbakery/extend-vc.php:1135 ../wpbakery/extend-vc.php:1496
+msgid "Category"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:197 ../wpbakery/extend-vc.php:213
+#: ../wpbakery/extend-vc.php:225 ../wpbakery/extend-vc.php:498
+#: ../wpbakery/extend-vc.php:514 ../wpbakery/extend-vc.php:526
+#: ../wpbakery/extend-vc.php:783 ../wpbakery/extend-vc.php:799
+#: ../wpbakery/extend-vc.php:811 ../wpbakery/extend-vc.php:968
+#: ../wpbakery/extend-vc.php:984 ../wpbakery/extend-vc.php:996
+#: ../wpbakery/extend-vc.php:1139 ../wpbakery/extend-vc.php:1155
+#: ../wpbakery/extend-vc.php:1168 ../wpbakery/extend-vc.php:1500
+msgid "Filter"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:202 ../wpbakery/extend-vc.php:503
+#: ../wpbakery/extend-vc.php:788 ../wpbakery/extend-vc.php:973
+#: ../wpbakery/extend-vc.php:1144
+msgid "Post Format"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:218 ../wpbakery/extend-vc.php:519
+#: ../wpbakery/extend-vc.php:804 ../wpbakery/extend-vc.php:989
+#: ../wpbakery/extend-vc.php:1161
+msgid "Featured Posts Filter"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:233
+msgid "Badge Text"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:235 ../wpbakery/extend-vc.php:249
+#: ../wpbakery/extend-vc.php:258 ../wpbakery/extend-vc.php:272
+#: ../wpbakery/extend-vc.php:284 ../wpbakery/extend-vc.php:308
+#: ../wpbakery/extend-vc.php:320 ../wpbakery/extend-vc.php:331
+#: ../wpbakery/extend-vc.php:538 ../wpbakery/extend-vc.php:550
+#: ../wpbakery/extend-vc.php:562 ../wpbakery/extend-vc.php:573
+#: ../wpbakery/extend-vc.php:584 ../wpbakery/extend-vc.php:593
+#: ../wpbakery/extend-vc.php:823 ../wpbakery/extend-vc.php:835
+#: ../wpbakery/extend-vc.php:847 ../wpbakery/extend-vc.php:858
+#: ../wpbakery/extend-vc.php:866 ../wpbakery/extend-vc.php:1180
+#: ../wpbakery/extend-vc.php:1192 ../wpbakery/extend-vc.php:1204
+#: ../wpbakery/extend-vc.php:1215 ../wpbakery/extend-vc.php:1226
+#: ../wpbakery/extend-vc.php:1235 ../wpbakery/extend-vc.php:1247
+#: ../wpbakery/extend-vc.php:1448 ../wpbakery/extend-vc.php:1460
+#: ../wpbakery/extend-vc.php:1471 ../wpbakery/extend-vc.php:1480
+#: ../wpbakery/extend-vc.php:1491
+msgid "Visibility"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:242 ../wpbakery/extend-vc.php:577
+#: ../wpbakery/extend-vc.php:1219
+msgid "Show Post Content?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:254 ../wpbakery/extend-vc.php:589
+#: ../wpbakery/extend-vc.php:863 ../wpbakery/extend-vc.php:1231
+#: ../wpbakery/extend-vc.php:1476
+msgid "Excerpt Value"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:256 ../wpbakery/extend-vc.php:1233
+#: ../wpbakery/extend-vc.php:1478
+msgid "28"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:265 ../wpbakery/extend-vc.php:531
+#: ../wpbakery/extend-vc.php:816 ../wpbakery/extend-vc.php:1173
+msgid "Author Name Visibiliy?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:277 ../wpbakery/extend-vc.php:543
+#: ../wpbakery/extend-vc.php:828 ../wpbakery/extend-vc.php:1185
+msgid "Date Visibiliy?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:289 ../wpbakery/extend-vc.php:627
+#: ../wpbakery/extend-vc.php:892 ../wpbakery/extend-vc.php:1285
+#: ../wpbakery/extend-vc.php:1535
+msgid "Sorting"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:296 ../wpbakery/extend-vc.php:353
+#: ../wpbakery/extend-vc.php:622 ../wpbakery/extend-vc.php:634
+#: ../wpbakery/extend-vc.php:887 ../wpbakery/extend-vc.php:899
+#: ../wpbakery/extend-vc.php:1280 ../wpbakery/extend-vc.php:1292
+#: ../wpbakery/extend-vc.php:1510 ../wpbakery/extend-vc.php:1530
+#: ../wpbakery/extend-vc.php:1542
+msgid "Data Settings"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:301 ../wpbakery/extend-vc.php:1441
+msgid "Show Share?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:313 ../wpbakery/extend-vc.php:566
+#: ../wpbakery/extend-vc.php:851 ../wpbakery/extend-vc.php:1208
+#: ../wpbakery/extend-vc.php:1453
+msgid "Category Visibility?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:324
+msgid "Post Format Visibility?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:337 ../wpbakery/extend-vc.php:606
+#: ../wpbakery/extend-vc.php:871 ../wpbakery/extend-vc.php:1264
+#: ../wpbakery/extend-vc.php:1514
+msgid "Order by"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:361 ../wpbakery/extend-vc.php:1257
+msgid "Post Limit"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:363
+msgid "1"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:364 ../wpbakery/extend-vc.php:946
+#: ../wpbakery/extend-vc.php:1260 ../wpbakery/extend-vc.php:1509
+msgid "Enter -1 to display all"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:384
+msgid "Feature Post + Right Thumbnails"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:392 ../wpbakery/extend-vc.php:688
+msgid "Thumbnail Post Limit?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:400 ../wpbakery/extend-vc.php:1041
+msgid "Pattern Seperator"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:425 ../wpbakery/extend-vc.php:710
+#: ../wpbakery/extend-vc.php:1065
+msgid "Custom Title"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:555 ../wpbakery/extend-vc.php:840
+#: ../wpbakery/extend-vc.php:1197
+msgid "Share Visibiliy?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:591 ../wpbakery/extend-vc.php:865
+msgid "19"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:669
+msgid "Feature Post + Bottom Thumbnails"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:677
+msgid "Featured Post Visibility?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:924
+msgid "Slider Title"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:943
+msgid "Slider Post Limit"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:945 ../wpbakery/extend-vc.php:1508
+msgid "4"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:952
+msgid "Slider Height"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1008
+msgid "Grid Posts"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1016
+msgid "Grid Column Size"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1029
+msgid "Post Align"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1240 ../wpbakery/extend-vc.php:1484
+msgid "Read More Button"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1259
+msgid "3"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1319
+msgid "Recent Posts"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1327
+msgid "Post Style?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1338
+msgid "Centered Post?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1349
+msgid "Pagination"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1360
+msgid "Image Crop?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1464
+msgid "Show Full Post Content?"
+msgstr ""
+
+#: ../wpbakery/extend-vc.php:1506
+msgid "Total items"
+msgstr ""
